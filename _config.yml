@@ -19,19 +19,17 @@ baseurl:               '/techraising-series'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack Starter Kit
+title:                 The TechRaising Entrepreneurship Clinics
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
-  Open `_config.yml` to edit this text.
+  The TechRaising Entrepreneurship Clinics.
+  Mentoring and ideas that help create successful businesses in Santa Cruz.
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+  Mentoring and ideas that help create successful businesses in Santa Cruz.
 
 # A list of keywords for your blog
 keywords:              []
@@ -50,12 +48,18 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               https://hydejack.com/docs/
-  - title:             About
-    url:               /about/
+  - title:             April 9th - Getting Customers
+    url:               /first-customers-event/
+  - title:             April 23rd - First Product
+    url:               /minimum-viable-product-event/
+  - title:             April 30th - Business Formation
+    url:               /business-formation-event/
+  - title:             May 7th - IP & Patents
+    url:               /intellectual-property-event/
+  - title:             May 14th - Market Fit
+    url:               /market-fit-event/
+  - title:             May 28th - Funding
+    url:               /funding-event/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -248,6 +252,7 @@ exclude:
   - _js
   - _plugins
   - .sass-cache
+  - .idea
 include:
   - LICENSE.md
 
