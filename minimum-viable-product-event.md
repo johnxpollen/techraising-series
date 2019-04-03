@@ -8,9 +8,9 @@ image: /assets/img/blog/example-content-ii.jpg
 noindex: false
 ---
  <center>
- <button value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
+ <b>May 7th 6:00pm @ Cruzio</b>   <button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
  </center>
-
+<br>
 
 The first release of a product is crucial. Including things that aren’t needed bloat your product,
 consume time and money, and create friction. Including too little and it doesn’t satisfy your
@@ -54,7 +54,7 @@ Presentation: 6:30PM
 Coaching Clinic: 7:15PM
 
  <center>
- <button value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
+ <button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
  </center>
 
 
