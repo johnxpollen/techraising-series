@@ -4,12 +4,11 @@ title: Minimum viable product (MVP)
 description: >
   Serial entrepreneur and product expert, John Marshall,
   shares insight into how to build successful products for real customer problems.
-image: /assets/img/blog/example-content-ii.jpg
 noindex: false
 ---
- <center>
- <b>May 7th 6:00pm @ Cruzio</b>   <button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
- </center>
+<center>
+<b>May 7th 6:00pm @ Cruzio   </b><button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
+</center>
 <br>
 
 The first release of a product is crucial. Including things that aren’t needed bloat your product,
@@ -53,10 +52,8 @@ Presentation: 6:30PM
 
 Coaching Clinic: 7:15PM
 
- <center>
- <button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
- </center>
-
+<b>May 7th 6:00pm @ Cruzio   </b><button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/minimum-viable-product-mvp-with-john-marshall-tickets-59296497420'">Sign Up</button>
+ <br><br>
 
 
 ![John Marshall](/assets/img/2019 headshot JBM large.jpg)
