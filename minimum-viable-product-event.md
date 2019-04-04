@@ -33,7 +33,7 @@ and that can be built on as the business progresses.
 - Any other tough questions
 
 
-## A Bit About John Marshall
+## A Bit About [John Marshall](https://www.linkedin.com/in/jbmarshall/)
 
 John has been bootstrapping software companies for 37 years, with 2 failures and 5 successfully
 sold along the way. Successful exits include two with Santa Cruz based talent (ClickTracks and
