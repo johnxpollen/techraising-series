@@ -27,7 +27,7 @@ before you can get funded.
 
 ## What You Should Bring
 
-- A hard copy of an agreement you are struggling with
+- It’s best if you could, send in advance, a redacted version of a section of agreements you never understood or never liked, or loved and hit a home run with to techraising@gmail.com. Or come and hear what others are stuggling with and killing it with.
 - Your questions regarding business formation and contract drafting
 
 ## A Bit About [Bill Richter](https://www.linkedin.com/in/richterlaw/)

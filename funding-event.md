@@ -7,7 +7,7 @@ description: >
 noindex: false
 ---
 <center>
-<b>May 28th 6:00pm @ Cruzio   </b><button class="myButton" value ="Coming Soon" type="button" onclick="window.location.href=''">Coming Soon</button>
+<b>May 28th 6:00pm @ Cruzio   </b><button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/funding-startups-with-craig-vachon-tickets-59298287775'">Sign Up</button>
 </center>
 <br>
 
@@ -15,7 +15,10 @@ Whether it’s family and friends round to get you started, an Angel or VC round
 
 ## In This Clinic You Will Learn:
 
-- It's gonna be good. We're working with Craig on the agenda
+- Finding investment isn't for those who aren't willing to work hard for it
+- Finding the right investor is often the most difficult part [Spray and Pray never works]
+- The five key attributes that investors are looking for
+- Techniques for matching your needs with different funding approaches
 
 ## What To Bring
 
@@ -26,14 +29,16 @@ Whether it’s family and friends round to get you started, an Angel or VC round
 
 ## A Bit About [Craig Vachon](https://www.linkedin.com/in/gcvachon/)
 
-Craig Vachon is a serial entrepreneur. Over his career, he has earned $1.1B in new investment for 22
-projects (including two PE/VC funds) in seven different countries. Craig has led companies in London,
-Tokyo, Taipei, Maharashtra India, Northern California and Vancouver BC.
+Craig Vachon is a serial entrepreneur, and investor. Over his career, he has earned $1.5B in new
+investment for 31 projects (including two PE/VC funds) in seven different countries. Craig has
+led companies in London, Tokyo, Taipei, Maharashtra India, Northern California and Vancouver BC.
 
 Craig formerly served as the COO of Nextel International, CEO of Sirenic Inc., and the CEO of
-Varatouch acquired by Atrua. Most recently Craig served as the Chief Commercial Officer at Immersion Corporation.
-Craig is currently a Chowdahead Growth Fund and Central Coast Angels member. Craig has over 20 years
-of tech experience and has even given a [TedTalk](https://www.youtube.com/watch?v=4U9WgAN-SsU).
+Varatouch acquired by Atrua. Most recently Craig served as the Chief Commercial Officer at Anchorfree.
+Craig is currently the MD Chowdahead Growth Fund [angel investments], a Senior Partner at Next Stage
+[a Paris-based private equity fund with €6.6B AUM], and a Central Coast Angel member. Craig has over
+30 years of tech experience and has even given a [TedTalk](https://www.youtube.com/watch?v=4U9WgAN-SsU) on the importance of privacy.
+
 
 ## Agenda
 
@@ -46,7 +51,7 @@ Presentation: 6:30PM
 Coaching Clinic: 7:15PM
 
 
-<b>May 28th 6:00pm @ Cruzio   </b><button class="myButton" value ="Coming Soon" type="button" onclick="window.location.href=''">Coming Soon</button>
+<b>May 28th 6:00pm @ Cruzio   </b><button class="myButton" value ="Sign Up" type="button" onclick="window.location.href='https://www.eventbrite.com/e/funding-startups-with-craig-vachon-tickets-59298287775'">Sign Up</button>
 <br>
 
 

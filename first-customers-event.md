@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Getting Customers
+title: Getting Your First Customers
 description: >
-  Sales and marketing expert, Michael Stebbins, shares reliable methods to consistently get customers.
+  Marketing growth expert, Michael Stebbins, shares proven methods to consistently get customers, shares reliable methods to consistently get customers.
 noindex: false
 ---
 <center>
